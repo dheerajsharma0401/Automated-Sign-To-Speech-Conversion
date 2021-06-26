@@ -131,7 +131,7 @@ Feel free to mail me for any doubts/query
 
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Sign-Language-Detection](https://github.com/beingaryan/Sign-To-Speech-Conversion/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Sign-Language-Detection](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 
 ## :heart: Owner
