@@ -126,7 +126,7 @@ $ python3 jupyter
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
-:email: aryan.gupta18@vit.edu
+:email: dheeraj.sharma18@vit.edu
 
 
 
