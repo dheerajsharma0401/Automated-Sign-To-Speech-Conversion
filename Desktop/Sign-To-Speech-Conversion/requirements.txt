@@ -1,9 +1,0 @@
-keras
-tensorflow
-gTTS
-playsound
-numpy
-sklearn
-matplotlib
-os
-ModelCheckpoint
