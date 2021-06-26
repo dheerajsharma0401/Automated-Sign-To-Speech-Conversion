@@ -27,7 +27,7 @@ Lack of efficient gesture detection system designed specifically for the differe
 <!---Unable to communicate verbally is a disability. In order to communicate there are many ways, one of the most popular methods is the use of predefined sign languages. The purpose of this project is to bridge the __research gap__ and to contribute to recognize __American sign languages(ASL)__ with maximum efficiency. This repository focuses on the recognition of ASL in real time, converting predicted characters to sentences and output is generated in terms of voice formats. The system is trained by convolutional neural networks for the classification of __26 alphabets__ and one extra alphabet for null character. The proposed work has achieved an efficiency of __99.88%__ on the test set.--->
 
 
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/z3.gif" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/Analysis/z3.gif" width="700" height="400"></p>
 
 ## :warning: TechStack/framework used
 
@@ -41,11 +41,11 @@ The dataset used can be downloaded here - [Click to Download](https://drive.goog
 
 This dataset consists of __17113 images__ belonging to 27 classes:
 *	__Training Set: 12845 images__<br />
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/train_data_distribution.png" ></br><b>Train Data Statistics</b></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/Analysis/train_data_distribution.png" ></br><b>Train Data Statistics</b></p>
 <!---<br />![](Analysis/train_data_distribution.png)<br />--->
 
 *	__Test Set: 4368 images__<br />
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/test_data_Distribution.png" ></br><b>Test Data Statistics</b></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/Analysis/test_data_Distribution.png" ></br><b>Test Data Statistics</b></p>
 <!---<br />![](Analysis/train_data_distribution.png)<br />--->
 
 
@@ -63,14 +63,14 @@ The above figure shows pre-processed image with extracted features which is sent
 
 ## 🎯 Proposed Flow
 </br>
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/Proposed%20Flow.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/Analysis/Proposed%20Flow.png" width="700" height="400"></p>
 <!---![](Analysis/Proposed%20Flow.png)<br />--->
 The figure above shows a detailed pipeline of the model architecture. It can be interpreted that a Convolutional architecture has been proposed.
 
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/requirements.txt)
 
 ## 🚀&nbsp; Installation
 1. Start and fork the repository.
@@ -97,9 +97,9 @@ $ pip3 install -r requirements.txt
 $ python3 jupyter
 ```
 
-2. To train the model, open the [ASL_train](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/ASL_train.ipynb) file in jupyter notebook and run all the cells </br>
+2. To train the model, open the [ASL_train](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/ASL_train.ipynb) file in jupyter notebook and run all the cells </br>
 
-3. To detect ASL Gestures in real-time video streams run the [ASL_Real-Time.ipynb](https://github.com/beingaryan/Automated-Sign-To-Speech-Conversion/blob/master/ASL_Real-Time.ipynb) file.
+3. To detect ASL Gestures in real-time video streams run the [ASL_Real-Time.ipynb](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/ASL_Real-Time.ipynb) file.
 
 * __'NOTE'__: You can directly use [asl_classifier.h5](https://github.com/beingaryan/Automated-Sign-To-Speech-Conversion/blob/master/asl_classifier.h5) file trained by me for real-time predictions in [Real-Time](https://github.com/beingaryan/Automated-Sign-To-Speech-Conversion/blob/master/ASL_Real-Time.ipynb) file.
 
