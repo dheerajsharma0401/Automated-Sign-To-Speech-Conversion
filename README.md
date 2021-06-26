@@ -8,18 +8,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/beingaryan/Sign-To-Speech-Conversion/issues)
-[![Forks](https://img.shields.io/github/forks/beingaryan/Sign-To-Speech-Conversion.svg?logo=github)](https://github.com/beingaryan/Sign-To-Speech-Conversion/network/members)
-[![Stargazers](https://img.shields.io/github/stars/beingaryan/Sign-To-Speech-Conversion.svg?logo=github)](https://github.com/beingaryan/Sign-To-Speech-Conversion/stargazers)
-[![Issues](https://img.shields.io/github/issues/beingaryan/Sign-To-Speech-Conversion.svg?logo=github)](https://github.com/beingaryan/Sign-To-Speech-Conversion/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/aryan-gupta-6a9201191/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/issues)
+[![Forks](https://img.shields.io/github/forks/dheerajsharma0401/Automated-Sign-To-Speech-Conversion.svg?logo=github)](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/network/members)
+[![Stargazers](https://img.shields.io/github/stars/dheerajsharma0401/Automated-Sign-To-Speech-Conversion.svg?logo=github)](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/stargazers)
+[![Issues](https://img.shields.io/github/issues/dheerajsharma0401/Automated-Sign-To-Speech-Conversion.svg?logo=github)](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/issues)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dheeraj-sharma-142bb0190/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Live Demo](Analysis/output.gif)
 
-## :point_down: Support me here!
-<a href="https://www.buymeacoffee.com/beingaryan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</br>
 ## :innocent: Motivation
 A language translator is extensively utilized by the mute people for converting and giving shape to their thoughts. A system is in urgent need of __recognizing and translating sign language__.  </br></br>
 Lack of efficient gesture detection system designed specifically for the differently abled, motivates us as a team to do something great in this field. The proposed work aims at converting such sign gestures into speech that can be understood by normal people. The entire model pipeline is developed by CNN architecture for the classification of __26 alphabets__ and one extra alphabet for null character. The proposed work has achieved an efficiency of __99.88%__ .
@@ -80,7 +77,7 @@ All the dependencies and required libraries are included in the file <code>requi
 
 2. Clone the repo
 ```
-$ git clone https://github.com/beingaryan/Sign-To-Speech-Conversion.git
+$ git clone https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion.git
 ```
 
 3. Change your directory to the cloned repo and create a Python virtual environment named 'test'
@@ -138,7 +135,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Aryan Gupta](https://github.com/beingaryan)
+Made with :heart:&nbsp;  by [Dheeraj Sharma](https://github.com/dheerajsharma0401)
 
 
 ## :+1: Credits
@@ -157,7 +154,7 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 
 ## :eyes: License
-MIT © [Aryan Gupta](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/LICENSE)
+MIT © [Dheeraj Sharma](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/LICENSE)
 
 
 
