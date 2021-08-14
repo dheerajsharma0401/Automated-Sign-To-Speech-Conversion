@@ -57,7 +57,7 @@ The model is efficient, since we used a compact __CNN-based architecture__, itâ€
 * Gaussian filter is used as a pre-processing technique to make the image smooth and eliminate all the irrelevat noise.
 * Intensity is analyzed and Non-Maximum suppression is implemented to remove false edges.
 * For a better pre-processed image data, double thresholding is implemented to consider only the strong edges in the images.
-* All the weak edges are finally removed and only the strong edges are consdered for the further phases. <br />
+* All the weak edges are finally removed and only the strong edges are considered for the further phases. <br />
 <br />![](Analysis/fe.png)<br />
 The above figure shows pre-processed image with extracted features which is sent to the model for classification.
 
