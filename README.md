@@ -100,8 +100,6 @@ $ python3 jupyter
 2. To train the model, open the [ASL_train](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/ASL_train.ipynb) file in jupyter notebook and run all the cells </br>
 
 3. To detect ASL Gestures in real-time video streams run the [ASL_Real-Time.ipynb](https://github.com/dheerajsharma0401/Automated-Sign-To-Speech-Conversion/blob/master/ASL_Real-Time.ipynb) file.
-
-
 </br></br>
 ## :key: Results 
 #### Our model gave 99.8% accuracy for Sign Language Detection after training via <code>tensorflow-gpu==2.0.0</code>
